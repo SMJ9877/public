@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=연락처
+Enabled=true
+Parent=22f7f4bcb27b46243eab81818ad4eb3279af6b6a
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=h93089877@gmail.com
+CredentialName=
+IsExternal=false
+
+[Address Book]
+BackendName=google

@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "code.desktop",
+        "date_created": 1479801267.0,
+        "description": "Sublime Text\uc640\ub294 \ube44\uc2b7\ud558\uc9c0\ub9cc \uc0ac\uc6a9\ud558\uae30\uac00 \ub354 \ud3b8\ud55c \uac83 \uac19\uc2b5\ub2c8\ub2e4.",
+        "distro": "Fedora",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "ko_KR",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 1118,
+        "score": 0,
+        "summary": "Good!!!",
+        "user_display": "Lee Juwon",
+        "user_hash": "879b5440a99c3520585181f2aeefc49da43373e5",
+        "user_skey": "c40d8aa5dabd367fa6b28b2044af11278a9372d7",
+        "version": "1.7.1"
+    },
+    {
+        "app_id": "code.desktop",
+        "date_created": 1590935739.0,
+        "description": "thanks~ AAAAAAA",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "ko_KR.UTF-8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 221175,
+        "score": 0,
+        "summary": "so good",
+        "user_display": "kyo",
+        "user_hash": "6e7776da621928015d1327d9d2dfbcc948e957bc",
+        "user_skey": "c40d8aa5dabd367fa6b28b2044af11278a9372d7",
+        "version": "5763d909"
+    }
+]

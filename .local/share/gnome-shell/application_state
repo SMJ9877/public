@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="28" last-seen="1591669560"/>
+    <application id="org.gnome.Nautilus.desktop" score="14.75" last-seen="1591669569"/>
+    <application id="gnome-initial-setup.desktop" score="3.5" last-seen="1591247897"/>
+    <application id="firefox.desktop" score="19" last-seen="1591668842"/>
+    <application id="org.gnome.Terminal.desktop" score="15490.75" last-seen="1591670212"/>
+    <application id="org.gnome.gedit.desktop" score="2" last-seen="1591668841"/>
+    <application id="code_code.desktop" score="36" last-seen="1591666941"/>
+    <application id="gnome-control-center.desktop" score="2" last-seen="1591665241"/>
+    <application id="update-manager.desktop" score="0" last-seen="1591247867"/>
+    <application id="org.gnome.FileRoller.desktop" score="1" last-seen="1591666531"/>
+  </context>
+</application-state>
