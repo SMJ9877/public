@@ -12,7 +12,7 @@
 ~h
 # 명령 행 히스토리 (새것부터 오래된 것 순):
 :wq
-|2,0,1591668491,,"wq"
+|2,0,1591677025,,"wq"
 :WQ
 |2,0,1591668180,,"WQ"
 :w
@@ -37,30 +37,162 @@
 |3,1,36,0,1,0,1591668237,"p"
 
 # 파일 마크:
-'0  1  0  ~/helloclass.c++
-|4,48,1,0,1591668491,"~/helloclass.c++"
-'1  5  12  ~/helloworld.c
-|4,49,5,12,1591668271,"~/helloworld.c"
-'2  6  0  ~/helloworld.c
-|4,50,6,0,1591668184,"~/helloworld.c"
-'3  6  0  ~/helloworld.c
-|4,51,6,0,1591668184,"~/helloworld.c"
-'4  5  0  ~/hello.c
-|4,52,5,0,1591668005,"~/hello.c"
-'5  5  0  ~/hello.c
-|4,53,5,0,1591667558,"~/hello.c"
+'0  4  0  ~/minjun.c
+|4,48,4,0,1591677025,"~/minjun.c"
+'1  4  0  ~/code1.c
+|4,49,4,0,1591671473,"~/code1.c"
+'2  3  24  ~/minjunclass.c
+|4,50,3,24,1591670877,"~/minjunclass.c"
+'3  1  0  ~/helloclass.c++
+|4,51,1,0,1591668491,"~/helloclass.c++"
+'4  5  12  ~/helloworld.c
+|4,52,5,12,1591668271,"~/helloworld.c"
+'5  6  0  ~/helloworld.c
+|4,53,6,0,1591668184,"~/helloworld.c"
+'6  6  0  ~/helloworld.c
+|4,54,6,0,1591668184,"~/helloworld.c"
+'7  5  0  ~/hello.c
+|4,55,5,0,1591668005,"~/hello.c"
+'8  5  0  ~/hello.c
+|4,56,5,0,1591667558,"~/hello.c"
 
 # 점프목록 (새것이 먼저):
+-'  4  0  ~/minjun.c
+|4,39,4,0,1591677025,"~/minjun.c"
+-'  1  0  ~/minjun.c
+|4,39,1,0,1591676959,"~/minjun.c"
+-'  4  0  ~/code1.c
+|4,39,4,0,1591671473,"~/code1.c"
+-'  4  0  ~/code1.c
+|4,39,4,0,1591671473,"~/code1.c"
+-'  1  0  ~/code1.c
+|4,39,1,0,1591671403,"~/code1.c"
+-'  1  0  ~/code1.c
+|4,39,1,0,1591671403,"~/code1.c"
+-'  3  24  ~/minjunclass.c
+|4,39,3,24,1591670877,"~/minjunclass.c"
+-'  3  24  ~/minjunclass.c
+|4,39,3,24,1591670877,"~/minjunclass.c"
+-'  3  24  ~/minjunclass.c
+|4,39,3,24,1591670877,"~/minjunclass.c"
+-'  3  24  ~/minjunclass.c
+|4,39,3,24,1591670877,"~/minjunclass.c"
+-'  1  0  ~/minjunclass.c
+|4,39,1,0,1591670779,"~/minjunclass.c"
+-'  1  0  ~/minjunclass.c
+|4,39,1,0,1591670779,"~/minjunclass.c"
+-'  1  0  ~/minjunclass.c
+|4,39,1,0,1591670779,"~/minjunclass.c"
+-'  1  0  ~/minjunclass.c
+|4,39,1,0,1591670779,"~/minjunclass.c"
+-'  1  0  ~/helloclass.c++
+|4,39,1,0,1591668491,"~/helloclass.c++"
+-'  1  0  ~/helloclass.c++
+|4,39,1,0,1591668491,"~/helloclass.c++"
+-'  1  0  ~/helloclass.c++
+|4,39,1,0,1591668491,"~/helloclass.c++"
+-'  1  0  ~/helloclass.c++
+|4,39,1,0,1591668491,"~/helloclass.c++"
+-'  1  0  ~/helloclass.c++
+|4,39,1,0,1591668491,"~/helloclass.c++"
+-'  1  0  ~/helloclass.c++
+|4,39,1,0,1591668491,"~/helloclass.c++"
+-'  1  0  ~/helloclass.c++
+|4,39,1,0,1591668491,"~/helloclass.c++"
 -'  1  0  ~/helloclass.c++
 |4,39,1,0,1591668491,"~/helloclass.c++"
 -'  5  12  ~/helloworld.c
 |4,39,5,12,1591668271,"~/helloworld.c"
 -'  5  12  ~/helloworld.c
 |4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
+-'  5  12  ~/helloworld.c
+|4,39,5,12,1591668271,"~/helloworld.c"
 -'  6  0  ~/helloworld.c
 |4,39,6,0,1591668223,"~/helloworld.c"
 -'  6  0  ~/helloworld.c
 |4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668223,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
+-'  6  0  ~/helloworld.c
+|4,39,6,0,1591668184,"~/helloworld.c"
 -'  6  0  ~/helloworld.c
 |4,39,6,0,1591668184,"~/helloworld.c"
 -'  6  0  ~/helloworld.c
@@ -73,72 +205,83 @@
 |4,39,1,0,1591668091,"~/helloworld.c"
 -'  1  0  ~/helloworld.c
 |4,39,1,0,1591668091,"~/helloworld.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591668005,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591668005,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591668005,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591668005,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591668005,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591668005,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591668005,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591668005,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591667558,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591667558,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591667558,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591667558,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591667558,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591667558,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591667558,"~/hello.c"
--'  5  0  ~/hello.c
-|4,39,5,0,1591667558,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
--'  1  0  ~/hello.c
-|4,39,1,0,1591667276,"~/hello.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
+-'  1  0  ~/helloworld.c
+|4,39,1,0,1591668091,"~/helloworld.c"
 
 # 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/minjun.c
+	*	1591677024	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	4	0
+
+> ~/code1.c
+	*	1591671470	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	4	0
+
+> ~/minjunclass.c
+	*	1591670875	0
+	"	3	24
+	^	3	25
+	.	3	19
+	+	5	0
+	+	4	9
+	+	3	19
 
 > ~/helloclass.c++
 	*	1591668490	0

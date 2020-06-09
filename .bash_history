@@ -154,3 +154,34 @@ git clean -f
 git log
 git rm log/\*.log
 git status
+git init
+git add *.c
+git add license
+git commit -m "first project"
+rm -rf /.git
+git init
+git log
+rm -rf ./.git
+git init
+git log
+git statis
+git status
+git add -A
+git commit -m "first commit"
+gcc
+vim minjunclass.c
+git log
+git add -A
+vim code1.c
+cd minjun
+cd MinJun
+git
+git status
+git config --global user.name "SMJ9877"
+git remote origin https://github.com/SMJ9877/public
+git remote add origin https://github.com/SMJ9877/public
+git push origin master
+git remote -v
+git push origin master
+git push origin in HEAD:refs/for/master
+git push origin HEAD:refs/for/master
